@@ -1,0 +1,17 @@
+DM2025-Lab1-Homework-TA_Grading_Reference.ipynb
+Git Intro & How to hand your homework.ipynb
+
+# Ignore virtual environment
+.venv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore text files
+*.txt
+
+# Ignore CSV files
+*.csv
